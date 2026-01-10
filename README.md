@@ -1,3 +1,31 @@
+## 2026.01.10 05:20
+
+### 7. OSS contribution (first PR)
+- Впервые сделал **Pull Request в чужой репозиторий**
+- Пройден полный OSS-флоу:
+  - fork → локальная ветка → коммиты → push → PR
+- Исправлены неточности в README без изменения логики проекта
+- Добавлены platform-specific инструкции (Windows PowerShell)
+- Git identity настроен локально для репозитория
+- PR отправлен и опубликован — зафиксирован публичный след в истории GitHub
+
+**Итог:**  
+Первый осознанный PR в чужой проект выполнен корректно и по стандартному OSS-процессу.
+
+
+### 7. OSS contribution (first PR)
+- Submitted my **first Pull Request to a third-party repository**
+- Completed the full OSS workflow:
+  - fork → feature branch → commits → push → PR
+- Fixed documentation inaccuracies without changing project logic
+- Added platform-specific instructions (Windows PowerShell)
+- Git identity configured locally for this repository
+- PR published, leaving a public contribution trace on GitHub
+
+**Result:**  
+First intentional OSS Pull Request completed correctly using the standard open-source workflow.
+
+
 ## 2026.01.09 11:54
 
 **Date:** 2026-01-09  

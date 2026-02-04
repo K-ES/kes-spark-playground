@@ -12,7 +12,7 @@ Sort-Object Source
 ```
 
 Получишь примерно следующее:
-```powershell
+```text
 Name               Source
 ----               ------
 python.exe         C:\Python\Python312\python.exe

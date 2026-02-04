@@ -1,4 +1,4 @@
-## Проверка установленных версий Python
+## 01. Проверка установленных версий Python
 
 Перед тем как наводить порядок, нужно понять, какие версии Python реально доступны в системе.
 
@@ -45,3 +45,36 @@ py -0p
  -V:3.12          C:\Python\Python312\python.exe
  -V:3.11          C:\Python64bit\python.exe
 ```
+
+## 02. Полное удаление всех Python из системы (Windows)
+
+⚠️ Делай это только если хочешь начать с чистого листа.
+
+### 1. Удалить Python через «Приложения»
+- Открой **Параметры → Приложения → Установленные приложения**
+- Удали **все записи**, содержащие:
+  - Python
+  - Python Launcher
+  - Python 3.x
+- Отдельно проверь и удали:
+  - **Python (Microsoft Store)**
+
+---
+
+### 2. Удалить Python из Microsoft Store
+- Открой **Microsoft Store**
+- Найди `Python`
+- Удали все установленные версии
+
+---
+
+### 3. Удалить каталоги вручную
+Проверь и удали, если существуют:
+
+```text
+C:\Python\
+C:\Python32bit\
+C:\Python64bit\
+C:\Program Files\Python*
+C:\Program Files (x86)\Python*
+C:\Users\<user>\AppData\Local\Programs\Python\

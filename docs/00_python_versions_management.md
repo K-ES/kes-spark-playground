@@ -32,3 +32,16 @@ pythonw.exe        C:\Python64bit\pythonw.exe
 python.exe         C:\Users\ekriv\AppData\Local\Microsoft\WindowsApps\python.exe
 python3.exe        C:\Users\ekriv\AppData\Local\Microsoft\WindowsApps\python3.exe
 ```
+
+Выполни команду:
+```powershell
+py -0p
+```
+
+Получишь примерно следующее:
+```text
+ -V:3.13t-32 *    C:\Python32bit\python3.13t.exe
+ -V:3.13-32       C:\Python32bit\python.exe
+ -V:3.12          C:\Python\Python312\python.exe
+ -V:3.11          C:\Python64bit\python.exe
+```

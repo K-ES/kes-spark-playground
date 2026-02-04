@@ -5,9 +5,6 @@
 ### PowerShell
 
 Выполни команду:
-
----
-
 ```powershell
 Get-Command python* |
 Select-Object Name, Source |

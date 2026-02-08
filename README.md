@@ -1,4 +1,23 @@
+**2026.02.08 07:05** Анализ истории версий Python. Победа над минимальной версией  
 
+Разобраны полностью версии  
+
+Python-2.0.1.exe  
+Python-2.1.3.exe  
+Python-2.3.exe  
+Python-2.3.5.exe  
+python-2.4.msi  
+python-2.5.amd64.msi  
+python-2.6.6.amd64.msi  
+python-2.7.17.msi  
+python-2.7.amd64.msi  
+python-3.2.5.amd64.msi  
+python-3.3.0.amd64.msi  
+python-3.7.9-amd64.exe  
+python-3.8.0-amd64.exe  
+python-3.9.0-amd64.exe  
+
+**2026.02.06 06:24** Анализ версий Python. Установка актуальных, работа со списком.  
 
 - Удалили **все Python** через «Установленные приложения»  
 - Удалили **все каталоги Python** вручную
